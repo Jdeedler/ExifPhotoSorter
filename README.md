@@ -1,6 +1,8 @@
 
 # EXIF PhotoSorter
 
+![](PhotoSorter.png)
+
 ## Overview
 The EXIF PhotoSorter Application is a standalone executable designed to automatically sort your digital photos into a neatly organized folder structure. It analyzes each photo's EXIF data for date and location information, allowing you to categorize images by date, location, or both. This application is perfect for photographers, travelers, or anyone looking to bring order to their digital photo collection.
 
