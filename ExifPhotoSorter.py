@@ -23,7 +23,7 @@ Usage:
 3. Run the script directly from the command line or by double-clicking the compiled executable.
 
 Author: James Deedler
-License: MIT License
+License: Commons Clause v 1.0 with Apache v 2.0
 Version: 1.0.1
 Date: 04/10/2024
 
