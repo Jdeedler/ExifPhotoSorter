@@ -27,7 +27,7 @@ Ensure your firewall or internet security settings allow the application to make
 ### Installation
 Download and place it in your desired location. Ensure the accompanying `config.ini` file is in the same directory as the executable.
 
-[Executable](ExifPhotoSorter%20with%20v1.0.1.exe)
+[Executable](ExifPhotoSorter%20v1.0.1.exe)
 
 [Config](config.ini)
 
