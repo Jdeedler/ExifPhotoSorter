@@ -17,7 +17,7 @@ The EXIF PhotoSorter Application is a standalone executable designed to automati
 
 ### Internet Connection Requirement
 
-For geolocation features, this application utilizes OpenStreetMap through the `geopy` library for reverse geocoding. An active internet connection is required to fFetch geolocation data for organizing photos based on location.
+For geolocation features, this application utilizes OpenStreetMap through the `geopy` library for reverse geocoding. An active internet connection is required to fetch geolocation data for organizing photos based on location.
 
 API calls to OpenStreetMap are made and cached every 1.5 seconds to avoid breaking OpenStreetMap API usage policy.
 
