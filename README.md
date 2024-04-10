@@ -45,4 +45,4 @@ For troubleshooting, refer to the `photo_sort.log` file in your output directory
 Feedback and contributions are welcome.
 
 ## License
-The EXIF PhotoSorter is freely available under the MIT License.
+The EXIF PhotoSorter is available for non-commerical use under Commons Clause v 1.0 and Apache License 2.0. See LICENSE file for details.
