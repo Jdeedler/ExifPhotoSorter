@@ -27,6 +27,10 @@ Ensure your firewall or internet security settings allow the application to make
 ### Installation
 Download and place it in your desired location. Ensure the accompanying `config.ini` file is in the same directory as the executable.
 
+[Executable](ExifPhotoSorter%20with%20v1.0.1.exe)
+
+[Config](config.ini)
+
 ### Configuration
 Before running the application, open the `config.ini` file in a text editor to adjust the settings to your preferences. Important sections include:
 - `[general]`: Basic operation settings, such as whether to copy or move files.
